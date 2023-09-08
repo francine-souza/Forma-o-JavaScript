@@ -13,4 +13,4 @@ for (let i = 0; i < conjuntoLetras.length; i= i++) {
     
 }
 
-console.log(somaTotalLetras);
+console.log(somaTotalLetras)
